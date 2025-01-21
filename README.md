@@ -1,12 +1,12 @@
 # Introduction to Computer Security Principles
 
-## CECS 378: Section 1 (5505)
+## CECS 378: Section 1 (4952)
 
-### Fall 2024
+### Spring 2025
 
 | Class Lecture | Time                  | Room     |
 |---------------|-----------------------|----------|
-| Tue Thu       | 11:00 AM - 12:15 PM   | VEC-518  |
+| Tue Thu       | 11:00 AM - 12:15 PM   | MM-200   |
 
 | Instructor        | Email                       | Office  | Office Hours             |
 |-------------------|-----------------------------|---------|--------------------------|
@@ -67,22 +67,22 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 | Week       | Subject                                             |
 |------------|-----------------------------------------------------|
-| Aug 26     | Intro to Computer Security (Ch 1)                   |
-| Sep  2     | Intro, ctd.                                         |
-| Sep  9     | Symmetric and Assymmetric Encryption (Ch 2, 20, 21) |
-| Sep 16     | Encryption, ctd.                                    |
-| Sep 23     | Encryption, ctd.                                    |
-| Sep 25     | First exam, Malicious Software (Ch 6)               |
-| Sep 30     | Malware, ctd.                                       |
-| Oct  7     | Malware, ctd.                                       |
-| Oct 14     | Denial of Service Attacks (Ch 7)                    |
-| Oct 21     | DoS Attacks, ctd.                                   |
-| Oct 28     | Database and Cloud Security (Ch 5)                  |
-| Nov  4     | Second Exam, Buffer Overflow (Ch 10)                |
-| Nov 11     | Buffer Overflow, ctd                                |
-| Nov 18     | User Authentication and Access Control (Ch 3, 4)    |
-| Nov 25     | Fall Break                                          |
-| Dec 2-9    | Case Studies, Final Exam                            |
+| Jan 20     | Intro to Computer Security (Ch 1)                   |
+| Jan 27     | Intro, ctd.                                         |
+| Feb  3     | Symmetric and Assymmetric Encryption (Ch 2, 20, 21) |
+| Feb 10     | Encryption, ctd.                                    |
+| Feb 17     | Encryption, ctd.                                    |
+| Feb 24     | First exam, Malicious Software (Ch 6)               |
+| Mar  3     | Malware, ctd.                                       |
+| Mar 10     | Malware, ctd.                                       |
+| Mar 17     | Denial of Service Attacks (Ch 7)                    |
+| Mar 14     | DoS Attacks, ctd.                                   |
+| Mar 31     | Spring Break                                        |
+| Apr  7     | Database and Cloud Security (Ch 5)                  |
+| Apr 14     | Second Exam, Buffer Overflow (Ch 10)                |
+| Apr 21     | Buffer Overflow, ctd                                |
+| Apr 28     | User Authentication and Access Control (Ch 3, 4)    |
+| May 5-12   | Case Studies, Final Exam                            |
 
 ### Computer Software
 
