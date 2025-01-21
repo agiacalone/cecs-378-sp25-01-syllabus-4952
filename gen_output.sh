@@ -2,7 +2,7 @@
 
 # Define the output file names
 COURSE=378
-TYEAR=SP24
+TYEAR=SP25
 CLASS=01
 SECTION=4952
 NAME=Giacalone_Anthony
